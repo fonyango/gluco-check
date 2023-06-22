@@ -11,6 +11,12 @@ The features in the data include:
 
 The data was processed and explored using various python libraries and frameworks such as `pandas, numpy`, and `scipy`. I also performed various statistical analysis using `statsmodels` library to identify descriptive statistics, correlations and causation before training the machine learning model. Click here to see the notebook used for exploratory data analysis and model training.
 
+Below is a table showing the statistical significance of the independent variables on the dependent variable
+
+![causation-significance](https://github.com/fonyango/gluco-check/assets/39304423/978fe449-5595-4609-a063-d253642c72df)
+
+
+
 ## Model training
 
 A Logistic Regression model has been trained on the data and achieved the following performance metrics that show that the model has an acceptable predictive power:
@@ -38,12 +44,12 @@ To test the API, do the following:
   endpoint `predict/`
 
 
-  Request Body:
+Request Body:
 
 ![request-body](https://github.com/fonyango/gluco-check/assets/39304423/bc94ebb7-76b2-4272-b037-5e0601f8f662)
 
 
-  Response body:
+Response body:
 
 ![response-body](https://github.com/fonyango/gluco-check/assets/39304423/a5d94479-61c4-4a16-9253-8b2025add49f)
 
