@@ -34,11 +34,13 @@ To test the API, do the following:
   endpoint `predict/`
   Request Body:
 
-![Screenshot from 2023-06-22 11-57-52](https://github.com/fonyango/gluco-check/assets/39304423/2d488752-5695-40bc-900c-bae1b3668f77)
+![request-body](https://github.com/fonyango/gluco-check/assets/39304423/bc94ebb7-76b2-4272-b037-5e0601f8f662)
 
-Response body:
 
-![Screenshot from 2023-06-22 11-58-29](https://github.com/fonyango/gluco-check/assets/39304423/1639cd7c-6dea-45cf-8103-bd1b65d64dc1)
+  Response body:
+
+![response-body](https://github.com/fonyango/gluco-check/assets/39304423/a5d94479-61c4-4a16-9253-8b2025add49f)
+
 
 
 
