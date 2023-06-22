@@ -9,7 +9,7 @@ The features in the data include:
 
 ## Data processing
 
-The data was processed and explored using various python libraries and frameworks such as `pandas, numpy`, and `scipy`. I also performed various statistical analysis using `statsmodels` library to identify descriptive statistics, correlations and causation before training the machine learning model. Click here to see the notebook used for exploratory data analysis and model training.
+The data was processed and explored using various python libraries and frameworks such as `pandas, numpy`, and `scipy`. I also performed various statistical analysis using `statsmodels` library to identify descriptive statistics, correlations and causation before training the machine learning model. [Click here](https://github.com/fonyango/gluco-check/blob/master/notebooks/diabetes.ipynb) to see the notebook used for exploratory data analysis and model training.
 
 Below is a table showing the statistical significance of the independent variables on the dependent variable
 
